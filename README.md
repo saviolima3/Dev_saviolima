@@ -7,6 +7,6 @@
 </div>
 
 <div>
-<img src= "[) />](https://logospng.org/wp-content/uploads/javascript.png)"
+<img src= "https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png">
           
 </div>
