@@ -13,7 +13,7 @@ jobs:
     steps:
       # Snake Animation
       - uses: Platane/snk@master
-        id: https://2.bp.blogspot.com/-CB6MROiLKK0/WYKABjYi9lI/AAAAAAABC_A/UEi5Kqf200oaNPU1ZBrjYKgM846sCP44QCLcBGAs/s1600/AS002913_00.gif
+        id: snak.gif
         with:
           github_user_name: rafaballerini
           svg_out_path: dist/github-contribution-grid-snake.svg
