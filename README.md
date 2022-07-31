@@ -7,6 +7,7 @@
 </div>
 
 <div>
-<img src= "https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png">
+<img heigth="60px" src= "https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png">
+  
           
 </div>
